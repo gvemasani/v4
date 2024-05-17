@@ -1,12 +1,12 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2024-01-19'
+title: 'Research Assistant'
+company: 'Purdue University'
+location: 'Lafayette, IN'
+range: 'January 2024 - April 2024'
+url: 'https://www.purdue.edu/'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Automated the process of scraping and comparing documents across different versions released years apart to track changes
+- Employed Selenium for browser automation and Beautiful Soup for extracting and comparing HTML text
+- Developed a large-scale web scraping system to efficiently gather information from targeted website

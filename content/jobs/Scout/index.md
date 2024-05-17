@@ -1,11 +1,11 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2021-07-24'
+title: 'Consultant'
+company: 'Eruvaka Naturals'
+location: 'Hyderabad, India'
+range: 'July 2021 - July 2023'
+url: 'https://www.linkedin.com/company/eruvakanaturals/?originalSubdomain=in'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Collaborated with C-suite executives to formulate market entry strategies and built robust projection models, resulting in a 30% cost saving through optimized procurement strategies
+- Enhanced retargeting and growth initiatives by analyzing regional demographics to identify priority customers resulting in a 50% increase in conversion rates
