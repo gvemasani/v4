@@ -1,16 +1,14 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Causality of Airbnb Superhost Status on Occupancy Rates'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://github.com/gvemasani/causal-impact-superhost-status-airbnb'
+cta: 'https://github.com/gvemasani/causal-impact-superhost-status-airbnb'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Python
+  - DiD
+  - Regression Analysis
+  - Causal Inference
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+A causal analysis to determine the impact of Airbnb's Superhost status on occupancy rates. By utilizing a difference-in-differences approach, the study compares occupancy changes between properties that just missed and just achieved Superhost status over several evaluation periods. Data manipulation and analysis are performed using Python, employing regression techniques to isolate the effect of Superhost certification on occupancy. The results aim to quantify how this status influences guest booking behaviors on Airbnb.
