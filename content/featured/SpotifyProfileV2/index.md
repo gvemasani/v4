@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Causality of Airbnb Superhost Status on Occupancy Rates'
-cover: './course-card.png'
+cover: './airbnb.png'
 external: 'https://github.com/gvemasani/causal-impact-superhost-status-airbnb'
 cta: 'https://github.com/gvemasani/causal-impact-superhost-status-airbnb'
 tech:

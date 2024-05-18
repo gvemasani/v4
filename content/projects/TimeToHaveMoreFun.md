@@ -1,14 +1,14 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'Analyzing Fashion Trends Through E-Commerce Data'
+github: 'https://github.com/gvemasani/Fashion-Trends-Analysis'
+external: 'https://github.com/gvemasani/Fashion-Trends-Analysis'
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Beautiful Soup
+  - Selenium
+  - Elasticity
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+Employed Python's Selenium and Beautiful Soup to scrape Amazon data on women's hoodies, analyzing key fashion trends and consumer preferences.

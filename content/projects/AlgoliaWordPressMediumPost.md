@@ -1,14 +1,15 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+title: 'Automated Content Moderation on Craigslist leveraging NLP'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://github.com/gvemasani/Flag-Derogatory-Content-Craigslist'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - NLP
+  - BERT
+  - Keras
+  - TensorFlow
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Utilizing models like NLP and BERT, it classifies posts as safe or unsafe for work, improving safety and user experience on the platform.
