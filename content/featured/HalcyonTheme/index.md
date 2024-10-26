@@ -2,8 +2,8 @@
 date: '1'
 title: 'Fantasy Sports Lineup Optimizer'
 cover: './fantasy.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://github.com/bchiang7/halcyon-site'
+github: 'https://github.com/gvemasani/halcyon-site'
+external: 'https://github.com/gvemasani/halcyon-site'
 tech:
   - Machine Learning
   - Optimization Modelling
