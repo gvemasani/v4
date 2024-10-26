@@ -5,7 +5,7 @@ module.exports = {
     title: 'Goutham Vemasani',
     description:
       'Goutham Vemasani is a Data Analyst who specializes in predictive analytics, machine learning, and data visualization to drive business decisions and operational efficiency.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://gvemasani.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Goutham Vemasani',
+        short_name: 'Goutham Vemasani',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

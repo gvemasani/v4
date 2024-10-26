@@ -125,7 +125,24 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'SQL', 'Tableau', 'R', 'Gurobi Optimizer', 'Machine Learning'];
+  const skills = [
+    'Python',
+    'SQL',
+    'Tableau',
+    'R',
+    'A/B Testing',
+    'Causal Inference',
+    'Hypothesis Testing',
+    'Linear Regression',
+    'Gradient Boosting',
+    'Random Forest',
+    'Deep Learning',
+    'NLP',
+    'TensorFlow',
+    'Keras',
+    'Gurobi Optimizer',
+    'Machine Learning',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>

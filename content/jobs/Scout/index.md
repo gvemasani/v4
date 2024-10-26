@@ -1,11 +1,12 @@
 ---
 date: '2021-07-24'
 title: 'Consultant'
-company: 'Eruvaka Naturals'
+company: 'Hale Clinics'
 location: 'Hyderabad, India'
 range: 'July 2021 - July 2023'
-url: 'https://www.linkedin.com/company/eruvakanaturals/?originalSubdomain=in'
+url: 'hhttps://www.haleclinics.in/'
 ---
 
-- Collaborated with C-suite executives to formulate market entry strategies and built robust projection models, resulting in a 30% cost saving through optimized procurement strategies
-- Enhanced retargeting and growth initiatives by analyzing regional demographics to identify priority customers resulting in a 50% increase in conversion rates
+- Delivered monthly outpatient data analysis and review reports in Tableau, helping management align business objectives with footfall targets and contributing to a 115% revenue growth in the first two years of operations
+- Framed and executed A/B testing experiments to implement data-driven Google Ad campaigns that led to a 34% increase in web traffic and an 12% growth in daily outpatient footfall over the span of 6 month
+- Performed site selection analysis for the expansion of a healthcare clinic startup, employing a Gradient Boosting model and consolidating geospatial, demographic, and socioeconomic data, resulting in a 25% increase in footfall

@@ -1,26 +1,15 @@
 module.exports = {
-  email: 'gowtham.vemasani@gmail.com',
+  email: 'gvemasan@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
       url: 'https://github.com/gvemasani',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
-    },
+
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/goutham-vemasani-57685773/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
     },
   ],
 
